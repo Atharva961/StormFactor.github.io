@@ -1,0 +1,10 @@
+.signup
+{
+    width: 1000px;
+    height: fit-content;
+    border-radius: 30px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
